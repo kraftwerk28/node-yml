@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "\"Yet another YAML parser.\"",
   "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/index.js"
+  },
   "repository": "https://github.com/kraftwerk28/node-yml",
   "author": "kraftwerk28 <kefirchik3@gmail.com>",
   "license": "MIT"

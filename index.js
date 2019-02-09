@@ -1,3 +1,3 @@
 module.exports = {
-  parse: require('./lib/yaml-parser')
+  parse: require('./lib/node-yml')
 }
